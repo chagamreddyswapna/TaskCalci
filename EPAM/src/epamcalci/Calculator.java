@@ -85,7 +85,6 @@ public class Calculator {
 		n1=sc.nextInt();
 		System.out.println("Second Number");
 		n2=sc.nextInt();
-		
 		sc.close();
 		System.out.println("Division Quotient: "+n1+" / "+n2 +" = "+(n1/n2));
 		System.out.println("Division Remainder: "+n1+" % "+n2 +" = "+(n1%n2));
